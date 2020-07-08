@@ -16,10 +16,16 @@ int main(int argc, char* argv[])
     std::cout << "                      Particle Interations" << std::endl;
     std::cout << std::endl;
     std::cout << "  A small project written in C++ using SFML library." << std::endl;
-    std::cout << " The main idea was to understand SFML library's multiple features." << std::endl;
-    std::cout << "The workflow is based on Particle Interation by 'CodeParade'" << std::endl;
-    std::cout << "fun projects, check out my YouTube channel 'CodeParade'." << std::endl;
+    std::cout << "Please Enter the number of particles you need, the variety and radius of particle." << std::endl;
     std::cout << std::endl;
+    std::cout << "Help:" << std::endl;
+    std::cout << "        L     : To draw/clear lines" << std::endl;
+    std::cout << "        P     : Pause the simulation" << std::endl;
+    std::cout << "        Space : Slow-mo the effect" << std::endl;
+    std::cout << "        ESC   : Exit" << std::endl;
+    std::cout << std::endl;
+    std::cout << "The number of particles should be based on your system configuration." << std::endl;
+    std::cout << "The more number of particles can likely have a laggy experience" << std::endl;
     std::cout << "=========================================================" << std::endl;
     std::cout << std::endl;
 

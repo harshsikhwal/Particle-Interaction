@@ -28,4 +28,11 @@ These are a part of the SFML SDK: SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\bin
 
 The code is written for x64 architecture, so the target should be updated for a successful build.
 
+Single Particle:
 
+![Image of Single Particle](https://github.com/harshsikhwal/Particle-Interaction/blob/master/resources/single.png)
+
+
+Multiple Particles:
+
+![Image of Multi Particle](https://github.com/harshsikhwal/Particle-Interaction/blob/master/resources/multi.png)

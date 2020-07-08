@@ -9,7 +9,7 @@ The particles collide with the boundaries and stay within the window.
 
 On pressing 'L' the particles interact with their co-particles if their distance is less than or equal to 50 units. You can see the lines drawn from one particle to another.
 
-The code was inspired by CodeParade's Particle-Life: https://youtu.be/Z_zmZ23grXE and is based on HackerPoet's design.
+The code was inspired by CodeParade's Particle-Life: https://youtu.be/Z_zmZ23grXE and is based on @HackerPoet design.
 Github: https://github.com/HackerPoet/Particle-Life
 
 This is written in C++ for windows, using Visual Studio.

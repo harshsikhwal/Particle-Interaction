@@ -2,7 +2,7 @@
 
 A small graphics project in C++ using SFML library. This code was written to understand the SFML library, Graphics and to revamp C++ skills.
 
-The user is allowed to input the number of particles, the varierty and the radius.
+The user is allowed to input the number of particles, the variety and the radius.
 
 We start with a black scrren, where the user can see multiple particles (circles in different colours) following different trajectories. 
 The particles collide with the boundaries and stay within the window.
